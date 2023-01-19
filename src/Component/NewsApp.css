@@ -1,0 +1,39 @@
+.news-card {
+   
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    justify-content: space-between;
+    row-gap: 20px;
+    padding: 20px;
+   
+
+}
+
+.lope{
+    border: 3px solid rgb(24, 37, 24);
+    padding: 20px;
+   
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 40px;
+    width: 400px;
+    color: aqua;
+    background-color: black;
+}
+
+
+
+img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom:20px ;
+}
+
+p {
+    color: #333;
+}
